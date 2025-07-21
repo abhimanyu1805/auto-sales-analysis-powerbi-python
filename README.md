@@ -29,7 +29,7 @@ Created an industrial-style sales dashboard to derive insights from auto sales d
 
 ## 📸 Preview
 
-![KPI Cards](dashboard_screenshots/kpi_cards.png)
+![KPI Cards][(dashboard_screenshots/kpi_cards.png)](https://github.com/abhimanyu1805/auto-sales-analysis-powerbi-python/blob/main/Screenshot%202025-07-22%20014558.png)
 ![Sales by Country](dashboard_screenshots/sales_by_country.png)
 
 
